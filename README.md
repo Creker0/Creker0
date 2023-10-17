@@ -14,7 +14,7 @@
 
 ### My Languages and Tools:
 
-🔧 Java | Spring | C++ | C# | JavaScript | React | Python
+🔧 Java | Spring | SQL | C++ | C# | JavaScript | React | Python
 
 ### Get in Touch:
 
